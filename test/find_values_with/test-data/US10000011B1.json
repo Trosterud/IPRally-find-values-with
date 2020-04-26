@@ -1,0 +1,6814 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "item-type": "feature",
+      "value": "additively manufactured part",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 610,
+          "item-type": "feature",
+          "value": "distortion",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "item-type": "feature",
+      "value": "desired part of",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 3,
+      "item-type": "feature",
+      "value": "desired part",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        { "id": 621, "item-type": "feature", "value": "side", "value-type": "text", "importance": "auto", "items": [] },
+        {
+          "id": 623,
+          "item-type": "feature",
+          "value": "lateral contour",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 624,
+          "item-type": "feature",
+          "value": "forming",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 627,
+          "item-type": "feature",
+          "value": "adjacent wall",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 633,
+          "item-type": "feature",
+          "value": "cavity",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "item-type": "feature",
+      "value": "equal or larger surface area",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 5,
+      "item-type": "feature",
+      "value": "underlying surface",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 625,
+          "item-type": "feature",
+          "value": "portable build plate",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "item-type": "feature",
+      "value": "neighboring metal particles",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 7,
+      "item-type": "feature",
+      "value": "mass diffusion",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 8,
+      "item-type": "feature",
+      "value": "one or two stage binder",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 9,
+      "item-type": "feature",
+      "value": "substantially horizontal portions",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 10,
+      "item-type": "feature",
+      "value": "overhangs",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 741,
+          "item-type": "feature",
+          "value": "overhang",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    { "id": 11, "item-type": "feature", "value": "bridges", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 12,
+      "item-type": "feature",
+      "value": "large radius arches",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 13,
+      "item-type": "feature",
+      "value": "build platform",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 14, "item-type": "feature", "value": "tray", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 15,
+      "item-type": "feature",
+      "value": "remaining binder",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 16,
+      "item-type": "feature",
+      "value": "atomic diffusion",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 17,
+      "item-type": "feature",
+      "value": "uniform shrinking",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 18,
+      "item-type": "feature",
+      "value": "sliding release layer reduce distortion",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 19,
+      "item-type": "feature",
+      "value": "apparatus of similar advantage",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 614,
+          "item-type": "feature",
+          "value": "print head",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 615,
+              "item-type": "feature",
+              "value": "sintering",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 654,
+              "item-type": "feature",
+              "value": "heat fusion",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 655,
+              "item-type": "feature",
+              "value": "polyjet\u201d",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 656,
+              "item-type": "feature",
+              "value": "liquid colloid suspension or powder jetting devices",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        },
+        {
+          "id": 889,
+          "item-type": "feature",
+          "value": "layers of second material",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 891,
+          "item-type": "feature",
+          "value": "additional station",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "item-type": "feature",
+      "value": "second printhead",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 611,
+          "item-type": "feature",
+          "value": "sliding release layer",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 642,
+              "item-type": "feature",
+              "value": "higher melting temperature material",
+              "value-type": "text",
+              "importance": "auto",
+              "items": [
+                {
+                  "id": 643,
+                  "item-type": "feature",
+                  "value": "primary matrix or binder component",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                }
+              ]
+            },
+            {
+              "id": 646,
+              "item-type": "feature",
+              "value": "top",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        },
+        {
+          "id": 616,
+          "item-type": "feature",
+          "value": "debinding wash",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 617,
+          "item-type": "feature",
+          "value": "sintering oven",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "item-type": "feature",
+      "value": "open cell structure",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 618,
+          "item-type": "feature",
+          "value": "interconnections",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "item-type": "feature",
+      "value": "connected shrinking supports",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 23, "item-type": "feature", "value": "heating", "value-type": "text", "importance": "auto", "items": [] },
+    { "id": 24, "item-type": "feature", "value": "unit", "value-type": "text", "importance": "auto", "items": [] },
+    { "id": 25, "item-type": "feature", "value": "debinding", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 26,
+      "item-type": "feature",
+      "value": "shape-retaining",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 27,
+      "item-type": "feature",
+      "value": "part release",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 28,
+      "item-type": "feature",
+      "value": "vertical gaps",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        { "id": 835, "item-type": "feature", "value": "gap", "value-type": "text", "importance": "auto", "items": [] }
+      ]
+    },
+    {
+      "id": 29,
+      "item-type": "feature",
+      "value": "lateral support shell block",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 628,
+          "item-type": "feature",
+          "value": "large cell interior",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 629,
+          "item-type": "feature",
+          "value": "cells",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 630,
+              "item-type": "feature",
+              "value": "cell cavities",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        },
+        {
+          "id": 631,
+          "item-type": "feature",
+          "value": "thickest wall",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "item-type": "feature",
+      "value": "debinding fluid",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 31,
+      "item-type": "feature",
+      "value": "internal chambers",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 32,
+      "item-type": "feature",
+      "value": "separation clearances",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 634,
+          "item-type": "feature",
+          "value": "separation clearance",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 836,
+          "item-type": "feature",
+          "value": "clearance",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    { "id": 33, "item-type": "feature", "value": "fragments", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 34,
+      "item-type": "feature",
+      "value": "rate uniform",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 35,
+      "item-type": "feature",
+      "value": "one or more separation clearances",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 632,
+          "item-type": "feature",
+          "value": "neighboring support columns",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "item-type": "feature",
+      "value": "vertical clearance",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 37,
+      "item-type": "feature",
+      "value": "vertical clearances",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 38,
+      "item-type": "feature",
+      "value": "interior shrinking supports",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 39,
+      "item-type": "feature",
+      "value": "subsection fragments",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 40,
+      "item-type": "feature",
+      "value": "blocks",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 737,
+          "item-type": "feature",
+          "value": "sintering supports",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 779,
+              "item-type": "feature",
+              "value": "at least some intervening release layer material",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 780,
+              "item-type": "feature",
+              "value": "same composite material",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        }
+      ]
+    },
+    { "id": 41, "item-type": "feature", "value": "plane", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 42,
+      "item-type": "feature",
+      "value": "shell fragments",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 43,
+      "item-type": "feature",
+      "value": "entireties",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 44, "item-type": "feature", "value": "ser", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 45,
+      "item-type": "feature",
+      "value": "at least the mechanical and electrical motion",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 46, "item-type": "feature", "value": "control", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 47,
+      "item-type": "feature",
+      "value": "sensor systems",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 48,
+      "item-type": "feature",
+      "value": "facing surface",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 49,
+      "item-type": "feature",
+      "value": "deformation",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 50,
+      "item-type": "feature",
+      "value": "potentially deforming environments",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 51,
+      "item-type": "feature",
+      "value": "sinterable part",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 52, "item-type": "feature", "value": "extrusion", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 53,
+      "item-type": "feature",
+      "value": "space",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 637,
+          "item-type": "feature",
+          "value": "deposition",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 641,
+          "item-type": "feature",
+          "value": "deposited bead",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 813,
+          "item-type": "feature",
+          "value": "same point",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    { "id": 54, "item-type": "feature", "value": "model", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 55,
+      "item-type": "feature",
+      "value": "same compaction/densification",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 56,
+      "item-type": "feature",
+      "value": "final sintered support structures",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 57,
+      "item-type": "feature",
+      "value": "smaller subsections",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 58,
+      "item-type": "feature",
+      "value": "easy removal",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 59,
+      "item-type": "feature",
+      "value": "mechanical or other agitation",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 60,
+      "item-type": "feature",
+      "value": "large support structure",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 61,
+      "item-type": "feature",
+      "value": "internal cavity",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 62,
+      "item-type": "feature",
+      "value": "substantially smaller hole",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 63,
+      "item-type": "feature",
+      "value": "method of support",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 64,
+      "item-type": "feature",
+      "value": "soluble support material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 65,
+      "item-type": "feature",
+      "value": "catalytic debind",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 66,
+      "item-type": "feature",
+      "value": "ceramic release layer",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 67,
+      "item-type": "feature",
+      "value": "microscopic ball bearings",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 68,
+      "item-type": "feature",
+      "value": "related support materials",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 69,
+      "item-type": "feature",
+      "value": "optionally staples",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 70, "item-type": "feature", "value": "tacks", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 71,
+      "item-type": "feature",
+      "value": "attachment points",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 72,
+      "item-type": "feature",
+      "value": "model material portions",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 73, "item-type": "feature", "value": "printer s", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 74,
+      "item-type": "feature",
+      "value": "at least two print heads",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 75,
+      "item-type": "feature",
+      "value": "printing techniques",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 76,
+      "item-type": "feature",
+      "value": "composite material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 619,
+          "item-type": "feature",
+          "value": "fluid debinder",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 648,
+          "item-type": "feature",
+          "value": "dispersed spheres",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 847,
+              "item-type": "feature",
+              "value": "sphere",
+              "value-type": "text",
+              "importance": "auto",
+              "items": [
+                {
+                  "id": 848,
+                  "item-type": "feature",
+                  "value": "half-way point",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 649,
+          "item-type": "feature",
+          "value": "powder",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 727,
+          "item-type": "feature",
+          "value": "metal or ceramic spherized powder",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "item-type": "feature",
+      "value": "thermoplastic",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 78, "item-type": "feature", "value": "curing", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 79,
+      "item-type": "feature",
+      "value": "both a part and support structures",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 80,
+      "item-type": "feature",
+      "value": "second head",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 81,
+      "item-type": "feature",
+      "value": "optionally a third head",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 650,
+          "item-type": "feature",
+          "value": "green body support head",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 651,
+          "item-type": "feature",
+          "value": "continuous fiber deposition head",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "item-type": "feature",
+      "value": "fourth head",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 83,
+      "item-type": "feature",
+      "value": "fiber reinforced composite filament",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 652,
+          "item-type": "feature",
+          "value": "polymer",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        { "id": 653, "item-type": "feature", "value": "resin", "value-type": "text", "importance": "auto", "items": [] }
+      ]
+    },
+    {
+      "id": 84,
+      "item-type": "feature",
+      "value": "continuous core reinforced filament",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 85,
+      "item-type": "feature",
+      "value": "internal continuous single core or multistrand core",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 86,
+      "item-type": "feature",
+      "value": "extrusion print heads",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 87, "item-type": "feature", "value": "fill", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 88,
+      "item-type": "feature",
+      "value": "material print head",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 89,
+      "item-type": "feature",
+      "value": "optical or uv curing",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 90,
+      "item-type": "feature",
+      "value": "fill material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 663,
+          "item-type": "feature",
+          "value": "material",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "item-type": "feature",
+      "value": "other functional requirements",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 92, "item-type": "feature", "value": "gravity", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 93,
+      "item-type": "feature",
+      "value": "release or separation materials",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 94, "item-type": "feature", "value": "stems", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 95,
+      "item-type": "feature",
+      "value": "cartesian arrangement",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 96,
+      "item-type": "feature",
+      "value": "other arrangements",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 97,
+      "item-type": "feature",
+      "value": "drive system",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 98,
+      "item-type": "feature",
+      "value": "motorized drive",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 99,
+      "item-type": "feature",
+      "value": "at least three degrees of freedom",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 100,
+      "item-type": "feature",
+      "value": "four or more degrees of freedom as",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 101, "item-type": "feature", "value": "delta", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 102,
+      "item-type": "feature",
+      "value": "parallel robot structure",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 103,
+      "item-type": "feature",
+      "value": "three parallelogram arms",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 104,
+      "item-type": "feature",
+      "value": "universal joints",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 105, "item-type": "feature", "value": "base", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 106,
+      "item-type": "feature",
+      "value": "three motorized degrees of freedom",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 107,
+      "item-type": "feature",
+      "value": "four or higher degrees of freedom",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 108,
+      "item-type": "feature",
+      "value": "robotic arm",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 659,
+          "item-type": "feature",
+          "value": "three four five six or higher degrees of freedom",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "item-type": "feature",
+      "value": "conduit nozzle",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 110,
+      "item-type": "feature",
+      "value": "matrix material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 111,
+      "item-type": "feature",
+      "value": "melting properties",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 112,
+      "item-type": "feature",
+      "value": "surface finish",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 113,
+      "item-type": "feature",
+      "value": "build platen",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 114,
+      "item-type": "feature",
+      "value": "build platen and print heads",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 647,
+          "item-type": "feature",
+          "value": "relative position",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 658,
+          "item-type": "feature",
+          "value": "orientation",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        { "id": 682, "item-type": "feature", "value": "heads", "value-type": "text", "importance": "auto", "items": [] }
+      ]
+    },
+    {
+      "id": 115,
+      "item-type": "feature",
+      "value": "desired location",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 116,
+      "item-type": "feature",
+      "value": "driven roller set",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 117,
+      "item-type": "feature",
+      "value": "clearance fit zone",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 118,
+      "item-type": "feature",
+      "value": "filament",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 664,
+          "item-type": "feature",
+          "value": "melted matrix material",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 666,
+              "item-type": "feature",
+              "value": "axial compression",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        },
+        {
+          "id": 665,
+          "item-type": "feature",
+          "value": "axial fiber strands",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    { "id": 119, "item-type": "feature", "value": "swaths", "value-type": "text", "importance": "auto", "items": [] },
+    { "id": 120, "item-type": "feature", "value": "print", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 121,
+      "item-type": "feature",
+      "value": "ironing lip",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 122,
+      "item-type": "feature",
+      "value": "transverse pressure zone",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 668,
+          "item-type": "feature",
+          "value": "composite swaths",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "item-type": "feature",
+      "value": "printheads",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 697,
+          "item-type": "feature",
+          "value": "printhead",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "item-type": "feature",
+      "value": "same linear guide",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 125,
+      "item-type": "feature",
+      "value": "different linear guides",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 126,
+      "item-type": "feature",
+      "value": "actuators",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        { "id": 667, "item-type": "feature", "value": "end", "value-type": "text", "importance": "auto", "items": [] },
+        {
+          "id": 681,
+          "item-type": "feature",
+          "value": "actuator",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    { "id": 127, "item-type": "feature", "value": "unison", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 128,
+      "item-type": "feature",
+      "value": "extrusion printhead",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 669,
+          "item-type": "feature",
+          "value": "extrusion nozzle",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 670,
+              "item-type": "feature",
+              "value": "melt zone",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 671,
+              "item-type": "feature",
+              "value": "melt reservoir",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 672,
+              "item-type": "feature",
+              "value": "heater",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 673,
+              "item-type": "feature",
+              "value": "high thermal gradient zone",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 674,
+              "item-type": "feature",
+              "value": "teflon or ptfe tube",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "item-type": "feature",
+      "value": "thermal resistor",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 130, "item-type": "feature", "value": "spacer", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 131,
+      "item-type": "feature",
+      "value": "optionally an air gap",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 132,
+      "item-type": "feature",
+      "value": "larger or smaller thermoplastic filament",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 133,
+      "item-type": "feature",
+      "value": "direct drive",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 134,
+      "item-type": "feature",
+      "value": "bowden tube",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 135,
+      "item-type": "feature",
+      "value": "three dimensional printer",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 136,
+      "item-type": "feature",
+      "value": "mechanisms",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 137, "item-type": "feature", "value": "sensors", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 138,
+      "item-type": "feature",
+      "value": "instructions",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 139,
+      "item-type": "feature",
+      "value": "control profiles",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 140,
+      "item-type": "feature",
+      "value": "printer",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 677,
+          "item-type": "feature",
+          "value": "compound assembly of printheads",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 897,
+          "item-type": "feature",
+          "value": "both discrete printers",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 898,
+          "item-type": "feature",
+          "value": "toolhead accessories",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "item-type": "feature",
+      "value": "three commanded motors",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 676,
+          "item-type": "feature",
+          "value": "configurations",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "item-type": "feature",
+      "value": "three-dimensional printer",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 662,
+          "item-type": "feature",
+          "value": "controller",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 678,
+              "item-type": "feature",
+              "value": "fiber head heater",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 679,
+              "item-type": "feature",
+              "value": "fiber filament drive",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 680,
+              "item-type": "feature",
+              "value": "plurality of actuators",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        }
+      ]
+    },
+    { "id": 143, "item-type": "feature", "value": "fiber", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 144,
+      "item-type": "feature",
+      "value": "flash memory",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 145, "item-type": "feature", "value": "ram", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 146,
+      "item-type": "feature",
+      "value": "spray coat",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 147,
+      "item-type": "feature",
+      "value": "printhead board",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 148,
+      "item-type": "feature",
+      "value": "compound printhead",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 149,
+      "item-type": "feature",
+      "value": "main controller",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 150,
+      "item-type": "feature",
+      "value": "ribbon cable",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 151,
+      "item-type": "feature",
+      "value": "certain inputs",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 152, "item-type": "feature", "value": "outputs", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 153,
+      "item-type": "feature",
+      "value": "ironing tip",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 154,
+      "item-type": "feature",
+      "value": "thermistor",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 155,
+      "item-type": "feature",
+      "value": "thermocouple",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 156,
+      "item-type": "feature",
+      "value": "companion extrusion printhead",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 683,
+          "item-type": "feature",
+          "value": "heater block holding nozzle",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "item-type": "feature",
+      "value": "thermistors",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 158,
+      "item-type": "feature",
+      "value": "thermocouples",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 159,
+      "item-type": "feature",
+      "value": "part fan s",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 160,
+      "item-type": "feature",
+      "value": "rangefinder",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 161,
+      "item-type": "feature",
+      "value": "cutter actuator",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 685,
+          "item-type": "feature",
+          "value": "servomotor",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 686,
+          "item-type": "feature",
+          "value": "solenoid",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "item-type": "feature",
+      "value": "lifter motor",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 163, "item-type": "feature", "value": "dripping", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 164,
+      "item-type": "feature",
+      "value": "limit switches",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 165,
+      "item-type": "feature",
+      "value": "proper travel range",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 166,
+      "item-type": "feature",
+      "value": "additional breakout board",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 687,
+          "item-type": "feature",
+          "value": "separate microcontroller",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 688,
+          "item-type": "feature",
+          "value": "user interface",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 689,
+          "item-type": "feature",
+          "value": "connectivity",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "item-type": "feature",
+      "value": "local wireless network",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 168, "item-type": "feature", "value": "internet", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 169,
+      "item-type": "feature",
+      "value": "remote inputs",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 170, "item-type": "feature", "value": "commands", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 171,
+      "item-type": "feature",
+      "value": "control parameters",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 172,
+      "item-type": "feature",
+      "value": "touch screen display panel",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 173,
+      "item-type": "feature",
+      "value": "user feedback",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 174, "item-type": "feature", "value": "inputs", "value-type": "text", "importance": "auto", "items": [] },
+    { "id": 175, "item-type": "feature", "value": "user", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 176,
+      "item-type": "feature",
+      "value": "flash memory and ram store programs",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 177,
+      "item-type": "feature",
+      "value": "active instructions",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 178,
+      "item-type": "feature",
+      "value": "user interface microcontroller",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 179,
+      "item-type": "feature",
+      "value": "flowchart",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 180, "item-type": "feature", "value": "printers", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 181,
+      "item-type": "feature",
+      "value": "coupled functionality",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 182,
+      "item-type": "feature",
+      "value": "control routines",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 693,
+          "item-type": "feature",
+          "value": "routine",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "item-type": "feature",
+      "value": "co-mounted fff extrusion",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 184,
+      "item-type": "feature",
+      "value": "filament printing",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 185,
+      "item-type": "feature",
+      "value": "initiation of printing",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 186, "item-type": "feature", "value": "step", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 187,
+      "item-type": "feature",
+      "value": "next segment",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 188,
+      "item-type": "feature",
+      "value": "fiber segment",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 189,
+      "item-type": "feature",
+      "value": "fiber filament segment",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 690,
+          "item-type": "feature",
+          "value": "case",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 704,
+              "item-type": "feature",
+              "value": "cases",
+              "value-type": "text",
+              "importance": "auto",
+              "items": [
+                {
+                  "id": 731,
+                  "item-type": "feature",
+                  "value": "build plate",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                }
+              ]
+            },
+            {
+              "id": 706,
+              "item-type": "feature",
+              "value": "thermoplastic extrusion deposition",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 707,
+              "item-type": "feature",
+              "value": "salt",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        },
+        {
+          "id": 691,
+          "item-type": "feature",
+          "value": "coatings",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "item-type": "feature",
+      "value": "case of other segments",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 191, "item-type": "feature", "value": "checks", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 192,
+      "item-type": "feature",
+      "value": "slice completion",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 193, "item-type": "feature", "value": "slice", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 194,
+      "item-type": "feature",
+      "value": "increments",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 195,
+      "item-type": "feature",
+      "value": "next planned segment",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 196,
+      "item-type": "feature",
+      "value": "fiber segments",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 197,
+      "item-type": "feature",
+      "value": "non-fiber segments",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 198, "item-type": "feature", "value": "slices", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 199,
+      "item-type": "feature",
+      "value": "next planned slice",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 200,
+      "item-type": "feature",
+      "value": "segment\u201d",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 201, "item-type": "feature", "value": "toolpath", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 202,
+      "item-type": "feature",
+      "value": "linear row",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 695,
+          "item-type": "feature",
+          "value": "beginning",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        { "id": 696, "item-type": "feature", "value": "line", "value-type": "text", "importance": "auto", "items": [] }
+      ]
+    },
+    { "id": 203, "item-type": "feature", "value": "road", "value-type": "text", "importance": "auto", "items": [] },
+    { "id": 204, "item-type": "feature", "value": "loop", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 205,
+      "item-type": "feature",
+      "value": "continuous deposit of material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 206,
+      "item-type": "feature",
+      "value": "slice\u201d",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 692,
+          "item-type": "feature",
+          "value": "segment",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 698,
+          "item-type": "feature",
+          "value": "single layer",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 699,
+          "item-type": "feature",
+          "value": "many segments",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 700,
+          "item-type": "feature",
+          "value": "lattice fill of cells",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 701,
+          "item-type": "feature",
+          "value": "different materials",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "item-type": "feature",
+      "value": "fiber-embedded filament segments",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 208,
+      "item-type": "feature",
+      "value": "pure polymer segments",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 209,
+      "item-type": "feature",
+      "value": "dual-mode printing",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 210,
+      "item-type": "feature",
+      "value": "different printheads",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 211,
+      "item-type": "feature",
+      "value": "printed structures",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 212,
+      "item-type": "feature",
+      "value": "printed article",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 213,
+      "item-type": "feature",
+      "value": "kind",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 703,
+          "item-type": "feature",
+          "value": "reinforced fiber structures",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "item-type": "feature",
+      "value": "fill material or plain resin structures",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 215,
+      "item-type": "feature",
+      "value": "material heads",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 216,
+      "item-type": "feature",
+      "value": "soluble thermoplastic",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 217,
+      "item-type": "feature",
+      "value": "soluble preform",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 708,
+          "item-type": "feature",
+          "value": "printing substrate",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "item-type": "feature",
+      "value": "part printing",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 219,
+      "item-type": "feature",
+      "value": "continuous fiber structures",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 220,
+      "item-type": "feature",
+      "value": "sandwich panels",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 221,
+      "item-type": "feature",
+      "value": "shells",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        { "id": 817, "item-type": "feature", "value": "shell", "value-type": "text", "importance": "auto", "items": [] }
+      ]
+    },
+    { "id": 222, "item-type": "feature", "value": "walls", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 223,
+      "item-type": "feature",
+      "value": "reinforcement surrounding holes",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 224,
+      "item-type": "feature",
+      "value": "continuous fiber reinforced part",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 225,
+      "item-type": "feature",
+      "value": "inclusive",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 709,
+          "item-type": "feature",
+          "value": "fibers",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "item-type": "feature",
+      "value": "soluble\u201d",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 227,
+      "item-type": "feature",
+      "value": "continuous fiber",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 228,
+      "item-type": "feature",
+      "value": "reinforcing fiber",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 710,
+          "item-type": "feature",
+          "value": "additive",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "item-type": "feature",
+      "value": "larger or smaller metal filament",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 230, "item-type": "feature", "value": "crucible", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 231,
+      "item-type": "feature",
+      "value": "commercially valuable metals",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 711,
+          "item-type": "feature",
+          "value": "aluminum",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 866,
+              "item-type": "feature",
+              "value": "boron carbide fibers",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 867,
+              "item-type": "feature",
+              "value": "nickel",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 868,
+              "item-type": "feature",
+              "value": "alumina beads",
+              "value-type": "text",
+              "importance": "auto",
+              "items": [
+                {
+                  "id": 869,
+                  "item-type": "feature",
+                  "value": "titanium",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": [
+                    {
+                      "id": 870,
+                      "item-type": "feature",
+                      "value": "copper",
+                      "value-type": "text",
+                      "importance": "auto",
+                      "items": [
+                        {
+                          "id": 871,
+                          "item-type": "feature",
+                          "value": "tungsten carbide coated graphite carbon fibers",
+                          "value-type": "text",
+                          "importance": "auto",
+                          "items": []
+                        },
+                        {
+                          "id": 873,
+                          "item-type": "feature",
+                          "value": "aluminum oxide particles",
+                          "value-type": "text",
+                          "importance": "auto",
+                          "items": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": 872,
+                      "item-type": "feature",
+                      "value": "silicon carbide fibers",
+                      "value-type": "text",
+                      "importance": "auto",
+                      "items": []
+                    },
+                    {
+                      "id": 874,
+                      "item-type": "feature",
+                      "value": "copper-silver alloy beads",
+                      "value-type": "text",
+                      "importance": "auto",
+                      "items": [
+                        {
+                          "id": 875,
+                          "item-type": "feature",
+                          "value": "diamond particles",
+                          "value-type": "text",
+                          "importance": "auto",
+                          "items": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 712,
+          "item-type": "feature",
+          "value": "stainless steel",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 713,
+          "item-type": "feature",
+          "value": "other metals",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "item-type": "feature",
+      "value": "oxidation",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 233,
+      "item-type": "feature",
+      "value": "amorphous metal",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 234,
+      "item-type": "feature",
+      "value": "glassy metal",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 235,
+      "item-type": "feature",
+      "value": "metallic glass",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 236,
+      "item-type": "feature",
+      "value": "post-processing",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 675,
+          "item-type": "feature",
+          "value": "schematic form",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    { "id": 237, "item-type": "feature", "value": "molding", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 238,
+      "item-type": "feature",
+      "value": "distributed particle or sphere sizes",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 239,
+      "item-type": "feature",
+      "value": "brown body",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 612,
+          "item-type": "feature",
+          "value": "part",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 613,
+              "item-type": "feature",
+              "value": "shape",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 638,
+              "item-type": "feature",
+              "value": "metal printing",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 644,
+              "item-type": "feature",
+              "value": "dimensional accuracy",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 645,
+              "item-type": "feature",
+              "value": "bottom most layer",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 660,
+              "item-type": "feature",
+              "value": "bonded ranks",
+              "value-type": "text",
+              "importance": "auto",
+              "items": [
+                {
+                  "id": 661,
+                  "item-type": "feature",
+                  "value": "force of adhesion",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                },
+                {
+                  "id": 694,
+                  "item-type": "feature",
+                  "value": "rank",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                }
+              ]
+            },
+            {
+              "id": 702,
+              "item-type": "feature",
+              "value": "plurality of slices",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 705,
+              "item-type": "feature",
+              "value": "structures",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 739,
+              "item-type": "feature",
+              "value": "outside",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 743,
+              "item-type": "feature",
+              "value": "remainder",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 745,
+              "item-type": "feature",
+              "value": "neighboring portion",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 759,
+              "item-type": "feature",
+              "value": "form",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 766,
+              "item-type": "feature",
+              "value": "orthogonal concave surfaces",
+              "value-type": "text",
+              "importance": "auto",
+              "items": [
+                {
+                  "id": 851,
+                  "item-type": "feature",
+                  "value": "surface",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                }
+              ]
+            },
+            {
+              "id": 815,
+              "item-type": "feature",
+              "value": "lateral outer contours",
+              "value-type": "text",
+              "importance": "auto",
+              "items": [
+                {
+                  "id": 816,
+                  "item-type": "feature",
+                  "value": "primitive shapes",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                },
+                {
+                  "id": 830,
+                  "item-type": "feature",
+                  "value": "contour",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                }
+              ]
+            },
+            {
+              "id": 823,
+              "item-type": "feature",
+              "value": "integral or contiguous extension",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 826,
+              "item-type": "feature",
+              "value": "e g lateral contour",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 844,
+              "item-type": "feature",
+              "value": "dovetail",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 893,
+              "item-type": "feature",
+              "value": "first and second material",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        },
+        {
+          "id": 714,
+          "item-type": "feature",
+          "value": "green body",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 715,
+              "item-type": "feature",
+              "value": "appropriate material",
+              "value-type": "text",
+              "importance": "auto",
+              "items": [
+                {
+                  "id": 716,
+                  "item-type": "feature",
+                  "value": "binder",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": [
+                    {
+                      "id": 859,
+                      "item-type": "feature",
+                      "value": "dispersant",
+                      "value-type": "text",
+                      "importance": "auto",
+                      "items": []
+                    },
+                    {
+                      "id": 860,
+                      "item-type": "feature",
+                      "value": "stabilizer",
+                      "value-type": "text",
+                      "importance": "auto",
+                      "items": []
+                    },
+                    {
+                      "id": 861,
+                      "item-type": "feature",
+                      "value": "plasticizer",
+                      "value-type": "text",
+                      "importance": "auto",
+                      "items": []
+                    }
+                  ]
+                },
+                {
+                  "id": 717,
+                  "item-type": "feature",
+                  "value": "binders",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                },
+                {
+                  "id": 718,
+                  "item-type": "feature",
+                  "value": "powdered or spherized metal",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 750,
+          "item-type": "feature",
+          "value": "optionally a surrounding shell structure",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 751,
+          "item-type": "feature",
+          "value": "optionally sintering supports",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 753,
+          "item-type": "feature",
+          "value": "internal porous structures",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "item-type": "feature",
+      "value": "one or more binders",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 241,
+      "item-type": "feature",
+      "value": "solvent catalysis pyrolysis",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 242, "item-type": "feature", "value": "impact", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 243,
+      "item-type": "feature",
+      "value": "remelting",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 244, "item-type": "feature", "value": "place", "value-type": "text", "importance": "auto", "items": [] },
+    { "id": 245, "item-type": "feature", "value": "vacuum", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 246,
+      "item-type": "feature",
+      "value": "application of heat",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 247,
+      "item-type": "feature",
+      "value": "internal pores",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 248, "item-type": "feature", "value": "voids", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 249,
+      "item-type": "feature",
+      "value": "microporosity",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 250,
+      "item-type": "feature",
+      "value": "metal or ceramic beads",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 251,
+      "item-type": "feature",
+      "value": "at least diffusion bonding",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 252,
+      "item-type": "feature",
+      "value": "unsupported straight or low-angle spans",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 253,
+      "item-type": "feature",
+      "value": "cantilevers",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 254,
+      "item-type": "feature",
+      "value": "additional explanation of relevant processes",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 255,
+      "item-type": "feature",
+      "value": "materials",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 256,
+      "item-type": "feature",
+      "value": "deposition phase",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 636,
+          "item-type": "feature",
+          "value": "supports",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 738,
+              "item-type": "feature",
+              "value": "channel",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "item-type": "feature",
+      "value": "two three or more deposition heads",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 258,
+      "item-type": "feature",
+      "value": "continuous composite deposition head",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 259,
+      "item-type": "feature",
+      "value": "model material deposition head",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 260,
+      "item-type": "feature",
+      "value": "other utility components",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 261,
+      "item-type": "feature",
+      "value": "low-diameter filament",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 262,
+      "item-type": "feature",
+      "value": "both material supply",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 263,
+      "item-type": "feature",
+      "value": "model material extrusion filament",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 264,
+      "item-type": "feature",
+      "value": "material deposition heads",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 265,
+      "item-type": "feature",
+      "value": "green body support material deposition",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 266, "item-type": "feature", "value": "headg", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 267,
+      "item-type": "feature",
+      "value": "at least three relative degrees of freedom",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 268,
+      "item-type": "feature",
+      "value": "green body support",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 269,
+      "item-type": "feature",
+      "value": "only one headsg",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 270,
+      "item-type": "feature",
+      "value": "both green body support material and separation material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 657,
+          "item-type": "feature",
+          "value": "body material",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 271,
+      "item-type": "feature",
+      "value": "first layer",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 272,
+      "item-type": "feature",
+      "value": "raft separation layer",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 273,
+      "item-type": "feature",
+      "value": "sliding release layer s",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 274,
+      "item-type": "feature",
+      "value": "separation material deposition headsg",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 275,
+      "item-type": "feature",
+      "value": "debinding materials",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 276,
+      "item-type": "feature",
+      "value": "ceramic or other spherical powder filler",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 277, "item-type": "feature", "value": "solvent", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 278,
+      "item-type": "feature",
+      "value": "catalysis",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 279,
+      "item-type": "feature",
+      "value": "dispersible and/or removable powder",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 280,
+      "item-type": "feature",
+      "value": "separation\u201d",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 281,
+      "item-type": "feature",
+      "value": "printing and other process steps",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 282,
+      "item-type": "feature",
+      "value": "very small clearances",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 283,
+      "item-type": "feature",
+      "value": "material-filled clearances",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 284,
+      "item-type": "feature",
+      "value": "components",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 285,
+      "item-type": "feature",
+      "value": "snap removal",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 286,
+      "item-type": "feature",
+      "value": "exaggerated scales",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 287,
+      "item-type": "feature",
+      "value": "purpose of clear explanation",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 288,
+      "item-type": "feature",
+      "value": "solid bodies",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 729,
+          "item-type": "feature",
+          "value": "internal structure",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 730,
+              "item-type": "feature",
+              "value": "continuous fiber reinforcement",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "item-type": "feature",
+      "value": "infill patterns",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 290,
+      "item-type": "feature",
+      "value": "honeycombs",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 291,
+      "item-type": "feature",
+      "value": "optionally ceramic build plate",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 292,
+      "item-type": "feature",
+      "value": "raft separation layer s",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 635,
+          "item-type": "feature",
+          "value": "printing",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    { "id": 293, "item-type": "feature", "value": "raft r", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 294,
+      "item-type": "feature",
+      "value": "e g portable build plate",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 295,
+      "item-type": "feature",
+      "value": "metal-bearing composite",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 296,
+      "item-type": "feature",
+      "value": "raft or shrinking platform r",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 297,
+      "item-type": "feature",
+      "value": "process of mass transport",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 298,
+      "item-type": "feature",
+      "value": "common centroid",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 299,
+      "item-type": "feature",
+      "value": "center of mass",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 300,
+      "item-type": "feature",
+      "value": "early adhesion",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 301,
+      "item-type": "feature",
+      "value": "environmentally compromised e g wet oxidized material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 302,
+      "item-type": "feature",
+      "value": "supply path",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 303,
+      "item-type": "feature",
+      "value": "conditioning printing nozzles",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 304,
+      "item-type": "feature",
+      "value": "other path elements",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 305, "item-type": "feature", "value": "rollers", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 306,
+      "item-type": "feature",
+      "value": "two general classes of supports",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 307,
+      "item-type": "feature",
+      "value": "both roles",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        { "id": 812, "item-type": "feature", "value": "role", "value-type": "text", "importance": "auto", "items": [] }
+      ]
+    },
+    {
+      "id": 308,
+      "item-type": "feature",
+      "value": "upper portion",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 309,
+      "item-type": "feature",
+      "value": "lower layers of green body",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 310,
+      "item-type": "feature",
+      "value": "either the build plate",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 311,
+      "item-type": "feature",
+      "value": "surrounding or lateral shell support structure s",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 312,
+      "item-type": "feature",
+      "value": "parting line pl and/or physical separation structure",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 313,
+      "item-type": "feature",
+      "value": "pinched and/or wasp-waisted and/or perforated or otherwise weakened cross-section",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 314,
+      "item-type": "feature",
+      "value": "optionally intervening separation layer",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 315, "item-type": "feature", "value": "smay", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 316,
+      "item-type": "feature",
+      "value": "raft r and shell s",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 735,
+          "item-type": "feature",
+          "value": "removal",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 317,
+      "item-type": "feature",
+      "value": "printing of green body",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 318,
+      "item-type": "feature",
+      "value": "printing support",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 319,
+      "item-type": "feature",
+      "value": "sintering support",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 320,
+      "item-type": "feature",
+      "value": "overhanging or cantilevered portion o",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 321,
+      "item-type": "feature",
+      "value": "same overhanging or cantilevered portion",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 322,
+      "item-type": "feature",
+      "value": "sintering support\u201d",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 323,
+      "item-type": "feature",
+      "value": "evenly distributed mass transport",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 324,
+      "item-type": "feature",
+      "value": "unsupported span",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 325,
+      "item-type": "feature",
+      "value": "two opposing sides",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 326,
+      "item-type": "feature",
+      "value": "separation layer material s material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 327, "item-type": "feature", "value": "gif", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 328,
+      "item-type": "feature",
+      "value": "sloping walls",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 329,
+      "item-type": "feature",
+      "value": "arch-like walls",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 330,
+      "item-type": "feature",
+      "value": "heat transfer",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 331, "item-type": "feature", "value": "solvents", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 332,
+      "item-type": "feature",
+      "value": "branching sintering supports",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 333,
+      "item-type": "feature",
+      "value": "supports s",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 334,
+      "item-type": "feature",
+      "value": "inherent stiffness",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 335,
+      "item-type": "feature",
+      "value": "slight offset",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 336,
+      "item-type": "feature",
+      "value": "lateral and vertical support",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 337,
+      "item-type": "feature",
+      "value": "model material composite",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 744,
+          "item-type": "feature",
+          "value": "material properties",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 338,
+      "item-type": "feature",
+      "value": "external bodies",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 339,
+      "item-type": "feature",
+      "value": "support removal",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 340,
+      "item-type": "feature",
+      "value": "same centroid",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 341,
+      "item-type": "feature",
+      "value": "relative local scale",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 342,
+      "item-type": "feature",
+      "value": "% uniform",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 343,
+      "item-type": "feature",
+      "value": "these support structures",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 344,
+      "item-type": "feature",
+      "value": "part structure",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 345,
+      "item-type": "feature",
+      "value": "no separate green body support deposition head",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 346,
+      "item-type": "feature",
+      "value": "ceramic or high-temperature metal particles",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 746,
+          "item-type": "feature",
+          "value": "separation layers",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 747,
+              "item-type": "feature",
+              "value": "separation material",
+              "value-type": "text",
+              "importance": "auto",
+              "items": [
+                {
+                  "id": 749,
+                  "item-type": "feature",
+                  "value": "debinding material",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                }
+              ]
+            },
+            {
+              "id": 748,
+              "item-type": "feature",
+              "value": "same metal material",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 347,
+      "item-type": "feature",
+      "value": "e g two-stage debindable matrix",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 348,
+      "item-type": "feature",
+      "value": "green body supports",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 349,
+      "item-type": "feature",
+      "value": "remaining polymer material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 350,
+      "item-type": "feature",
+      "value": "remaining ceramic powder",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 351,
+      "item-type": "feature",
+      "value": "overall schematic",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 352,
+      "item-type": "feature",
+      "value": "ceramic or other material build plate",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 353,
+      "item-type": "feature",
+      "value": "debinding chamber",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 354,
+      "item-type": "feature",
+      "value": "different polymer",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 355,
+      "item-type": "feature",
+      "value": "first stage debinding material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 778,
+          "item-type": "feature",
+          "value": "interconnected voids",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    { "id": 356, "item-type": "feature", "value": "one", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 357,
+      "item-type": "feature",
+      "value": "first binder component",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 358,
+      "item-type": "feature",
+      "value": "porous brown body structure",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 359,
+      "item-type": "feature",
+      "value": "continuing",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 360,
+      "item-type": "feature",
+      "value": "sintering chamber",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 361,
+      "item-type": "feature",
+      "value": "printer and/or debinding chamber",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 362,
+      "item-type": "feature",
+      "value": "surrounding shell structure",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 363,
+      "item-type": "feature",
+      "value": "sintering support structure",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 364,
+      "item-type": "feature",
+      "value": "shell structure",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 365,
+      "item-type": "feature",
+      "value": "assistance",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 366,
+      "item-type": "feature",
+      "value": "other reactive agents",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 367,
+      "item-type": "feature",
+      "value": "otherwise flowable form",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 368,
+      "item-type": "feature",
+      "value": "sintered body",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 369,
+      "item-type": "feature",
+      "value": "supporting shell structure",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 370,
+      "item-type": "feature",
+      "value": "protrusion connections",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 371,
+      "item-type": "feature",
+      "value": "other specifically mechanically weak structures",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 372,
+      "item-type": "feature",
+      "value": "four overhanging or cantilevered sections",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 373,
+      "item-type": "feature",
+      "value": "overhang o",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 755,
+          "item-type": "feature",
+          "value": "lower thicker overhang",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 756,
+          "item-type": "feature",
+          "value": "self-supporting cantilever",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 760,
+              "item-type": "feature",
+              "value": "heavy block",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        },
+        {
+          "id": 757,
+          "item-type": "feature",
+          "value": "downward-leaning overhang",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 758,
+              "item-type": "feature",
+              "value": "lowest portion",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 374,
+      "item-type": "feature",
+      "value": "cantilevered thinner overhang",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 375,
+      "item-type": "feature",
+      "value": "lower overhang o",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 376,
+      "item-type": "feature",
+      "value": "long cantilever overhang o",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 377,
+      "item-type": "feature",
+      "value": "both green body",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 378,
+      "item-type": "feature",
+      "value": "free space",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 379,
+      "item-type": "feature",
+      "value": "rigid sintering supports",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 380,
+      "item-type": "feature",
+      "value": "necessary sintering supports",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 381,
+      "item-type": "feature",
+      "value": "small channel",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 382, "item-type": "feature", "value": "contrast", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 383,
+      "item-type": "feature",
+      "value": "sintering supports s",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 761,
+          "item-type": "feature",
+          "value": "thin walled vertical members",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 762,
+              "item-type": "feature",
+              "value": "independent e g vertical rods",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 763,
+              "item-type": "feature",
+              "value": "plates",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 764,
+              "item-type": "feature",
+              "value": "interlocked e g accordion or mesh structures",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 384,
+      "item-type": "feature",
+      "value": "relatively small cross-sectional area",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 385,
+      "item-type": "feature",
+      "value": "downward-leaning overhang o",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 386,
+      "item-type": "feature",
+      "value": "heavier overhang",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 767,
+          "item-type": "feature",
+          "value": "parting line pl",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 768,
+              "item-type": "feature",
+              "value": "mechanically weakened separation structure",
+              "value-type": "text",
+              "importance": "auto",
+              "items": [
+                {
+                  "id": 769,
+                  "item-type": "feature",
+                  "value": "nearly or barely abutting clearance",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    { "id": 387, "item-type": "feature", "value": "order", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 388,
+      "item-type": "feature",
+      "value": "green body support material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 770,
+          "item-type": "feature",
+          "value": "little or no ceramic or metal content",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 389,
+      "item-type": "feature",
+      "value": "these material or mechanical separation structures",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 390,
+      "item-type": "feature",
+      "value": "multiple parting lines",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 391, "item-type": "feature", "value": "parts", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 392,
+      "item-type": "feature",
+      "value": "channel c",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 771,
+          "item-type": "feature",
+          "value": "internal supports",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 393,
+      "item-type": "feature",
+      "value": "small-diameter hole of sufficient rigidity",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 394,
+      "item-type": "feature",
+      "value": "both printing",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 395,
+      "item-type": "feature",
+      "value": "both types",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 396,
+      "item-type": "feature",
+      "value": "shape retention",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 397,
+      "item-type": "feature",
+      "value": "monolithic form-fitting shell s",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 772,
+          "item-type": "feature",
+          "value": "small open cell holes",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 398,
+      "item-type": "feature",
+      "value": "either release or separation layers s",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 399,
+      "item-type": "feature",
+      "value": "penetration",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 400,
+      "item-type": "feature",
+      "value": "diffusion of gases",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 401,
+      "item-type": "feature",
+      "value": "shell s",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 773,
+          "item-type": "feature",
+          "value": "parting line",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 402,
+      "item-type": "feature",
+      "value": "sufficient parting lines",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 403,
+      "item-type": "feature",
+      "value": "release layers",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 404, "item-type": "feature", "value": "left", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 405,
+      "item-type": "feature",
+      "value": "workholding piece",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 406,
+      "item-type": "feature",
+      "value": "monolithic e g lateral support",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 407,
+      "item-type": "feature",
+      "value": "large cell or honeycomb interior",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 408,
+      "item-type": "feature",
+      "value": "continuous fiber layers",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 409,
+      "item-type": "feature",
+      "value": "sandwich-panel reinforcement layers cs",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 410,
+      "item-type": "feature",
+      "value": "upper and lower bounds of overhangs",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 411,
+      "item-type": "feature",
+      "value": "thermal soluble or catalytic debindable composite material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 774,
+          "item-type": "feature",
+          "value": "matrix",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 775,
+          "item-type": "feature",
+          "value": "polyoxymethylene",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 412,
+      "item-type": "feature",
+      "value": "pom/acetal",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 413,
+      "item-type": "feature",
+      "value": "high melting point metal e g molybdenum",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 414,
+      "item-type": "feature",
+      "value": "ceramic spheres",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 415,
+      "item-type": "feature",
+      "value": "thermal soluble pyrolytic or catalytically responsive material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 416,
+      "item-type": "feature",
+      "value": "polymer or polymer blend",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 417,
+      "item-type": "feature",
+      "value": "only removable byproducts",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 418,
+      "item-type": "feature",
+      "value": "dissolved material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 419,
+      "item-type": "feature",
+      "value": "debinding stage",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 420,
+      "item-type": "feature",
+      "value": "remainder powder",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 421,
+      "item-type": "feature",
+      "value": "catalytically debindable composite material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 776,
+          "item-type": "feature",
+          "value": "acetal",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 422,
+      "item-type": "feature",
+      "value": "two-stage debinding material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 777,
+          "item-type": "feature",
+          "value": "first stage",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 423,
+      "item-type": "feature",
+      "value": "gas passage",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 424,
+      "item-type": "feature",
+      "value": "catalytic surface reaction",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 425,
+      "item-type": "feature",
+      "value": "second stage binder",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 426,
+      "item-type": "feature",
+      "value": "lattice-like and porous form",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 427,
+      "item-type": "feature",
+      "value": "metal or ceramic balls",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 428,
+      "item-type": "feature",
+      "value": "atomic diffusion of sintering",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 429,
+      "item-type": "feature",
+      "value": "brown part",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 430,
+      "item-type": "feature",
+      "value": "gaseous form",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 431, "item-type": "feature", "value": "segments", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 432,
+      "item-type": "feature",
+      "value": "untacked sintering supports",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 433,
+      "item-type": "feature",
+      "value": "higher temperature composite",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 781,
+          "item-type": "feature",
+          "value": "same or similar binding materials",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 434,
+      "item-type": "feature",
+      "value": "most metal printing",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 435,
+      "item-type": "feature",
+      "value": "first stage binder",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 436,
+      "item-type": "feature",
+      "value": "tacked sintering supports",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 437,
+      "item-type": "feature",
+      "value": "thin connections",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 438,
+      "item-type": "feature",
+      "value": "sufficient supporting points",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 439,
+      "item-type": "feature",
+      "value": "part material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 440,
+      "item-type": "feature",
+      "value": "brown bodies",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 441,
+      "item-type": "feature",
+      "value": "metal sintering",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 442, "item-type": "feature", "value": "ceramics", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 443,
+      "item-type": "feature",
+      "value": "part solid-state atomic diffusion",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 444,
+      "item-type": "feature",
+      "value": "diffusion-based mass transport",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 445,
+      "item-type": "feature",
+      "value": "many interconnected metal/ceramic spheres",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 446,
+      "item-type": "feature",
+      "value": "sufficient material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 447,
+      "item-type": "feature",
+      "value": "very thin bridge",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 448,
+      "item-type": "feature",
+      "value": "only one end",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 449,
+      "item-type": "feature",
+      "value": "one-ended bridge",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 450, "item-type": "feature", "value": "two ends", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 451,
+      "item-type": "feature",
+      "value": "two-ended bridges",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 452,
+      "item-type": "feature",
+      "value": "model material raft",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 453,
+      "item-type": "feature",
+      "value": "raft-supports contiguous body",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 620,
+          "item-type": "feature",
+          "value": "centroid",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 454,
+      "item-type": "feature",
+      "value": "raft-support contiguous party",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 455,
+      "item-type": "feature",
+      "value": "other cases",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 456,
+      "item-type": "feature",
+      "value": "entire contiguous body",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 457,
+      "item-type": "feature",
+      "value": "both ends",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 458,
+      "item-type": "feature",
+      "value": "own centroids",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 459,
+      "item-type": "feature",
+      "value": "interconnected centroid",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 460,
+      "item-type": "feature",
+      "value": "surrounding model material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 461,
+      "item-type": "feature",
+      "value": "support or support structures",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 462,
+      "item-type": "feature",
+      "value": "base raft",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 814,
+          "item-type": "feature",
+          "value": "model material shells",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 463,
+      "item-type": "feature",
+      "value": "straight or curved walls",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 464,
+      "item-type": "feature",
+      "value": "many cases",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 465,
+      "item-type": "feature",
+      "value": "these offset support structures",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 626,
+          "item-type": "feature",
+          "value": "layers",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 736,
+              "item-type": "feature",
+              "value": "continued printing",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        },
+        {
+          "id": 765,
+          "item-type": "feature",
+          "value": "separation layer",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 466,
+      "item-type": "feature",
+      "value": "mechanical support",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 467, "item-type": "feature", "value": "e g", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 468,
+      "item-type": "feature",
+      "value": "support shells",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 728,
+          "item-type": "feature",
+          "value": "separation",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 469,
+      "item-type": "feature",
+      "value": "part and support structure",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 470,
+      "item-type": "feature",
+      "value": "most locations",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 471,
+      "item-type": "feature",
+      "value": "bonding diffusion",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 472,
+      "item-type": "feature",
+      "value": "particles",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 473,
+      "item-type": "feature",
+      "value": "separation clearance support structures",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 474,
+      "item-type": "feature",
+      "value": "tap-away\u201d",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 475,
+      "item-type": "feature",
+      "value": "clearances",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 476,
+      "item-type": "feature",
+      "value": "partial segments",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 825,
+          "item-type": "feature",
+          "value": "part and support structures",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 838,
+              "item-type": "feature",
+              "value": "same or similar model material",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        }
+      ]
+    },
+    { "id": 477, "item-type": "feature", "value": "microns", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 478,
+      "item-type": "feature",
+      "value": "increased rigidity",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 479,
+      "item-type": "feature",
+      "value": "set of limited contact areas",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 480,
+      "item-type": "feature",
+      "value": "large and medium gaps",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 481,
+      "item-type": "feature",
+      "value": "larger clearance support structures",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 482,
+      "item-type": "feature",
+      "value": "more closely following support structures",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 483,
+      "item-type": "feature",
+      "value": "three or more levels",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 484,
+      "item-type": "feature",
+      "value": "sintering support structures",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 622,
+          "item-type": "feature",
+          "value": "separable attachment protrusions",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 845,
+              "item-type": "feature",
+              "value": "only separation layers s",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        },
+        {
+          "id": 833,
+          "item-type": "feature",
+          "value": "following shell",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 834,
+              "item-type": "feature",
+              "value": "inner surface",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        },
+        {
+          "id": 837,
+          "item-type": "feature",
+          "value": "raised ridges",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 485,
+      "item-type": "feature",
+      "value": "e g lateral part contour",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 486,
+      "item-type": "feature",
+      "value": "smaller gap",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 487,
+      "item-type": "feature",
+      "value": "small point contacts",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 488,
+      "item-type": "feature",
+      "value": "compacted intimate contact",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 885,
+          "item-type": "feature",
+          "value": "controlled atmosphere",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 887,
+              "item-type": "feature",
+              "value": "gaseous catalyst",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 489,
+      "item-type": "feature",
+      "value": "following contour shell",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 490,
+      "item-type": "feature",
+      "value": "neat matrix",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 491,
+      "item-type": "feature",
+      "value": "binder components",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 492,
+      "item-type": "feature",
+      "value": "structural integrity",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 493,
+      "item-type": "feature",
+      "value": "green and brown states",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 494,
+      "item-type": "feature",
+      "value": "handling",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 839,
+          "item-type": "feature",
+          "value": "cracking",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 840,
+              "item-type": "feature",
+              "value": "chance",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        },
+        {
+          "id": 841,
+          "item-type": "feature",
+          "value": "destruction",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 495,
+      "item-type": "feature",
+      "value": "cross section view",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 496,
+      "item-type": "feature",
+      "value": "sintered body structure",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 497,
+      "item-type": "feature",
+      "value": "separation lines",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 498,
+      "item-type": "feature",
+      "value": "two or more parts",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 499,
+      "item-type": "feature",
+      "value": "optionally many parts",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 500,
+      "item-type": "feature",
+      "value": "binder material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 501,
+      "item-type": "feature",
+      "value": "snap-off structures",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 502,
+      "item-type": "feature",
+      "value": "two halves",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 503,
+      "item-type": "feature",
+      "value": "ready separation",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 504,
+      "item-type": "feature",
+      "value": "case of complex geometries",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 505,
+      "item-type": "feature",
+      "value": "orange slices",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 506,
+      "item-type": "feature",
+      "value": "orthogonal axis",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 507,
+      "item-type": "feature",
+      "value": "three parts",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 719,
+          "item-type": "feature",
+          "value": "support structures",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 720,
+              "item-type": "feature",
+              "value": "parting lines",
+              "value-type": "text",
+              "importance": "auto",
+              "items": [
+                {
+                  "id": 843,
+                  "item-type": "feature",
+                  "value": "multiple planes",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                }
+              ]
+            },
+            {
+              "id": 721,
+              "item-type": "feature",
+              "value": "model material",
+              "value-type": "text",
+              "importance": "auto",
+              "items": [
+                {
+                  "id": 724,
+                  "item-type": "feature",
+                  "value": "raft",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                },
+                {
+                  "id": 732,
+                  "item-type": "feature",
+                  "value": "shrinking platform r",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                },
+                {
+                  "id": 733,
+                  "item-type": "feature",
+                  "value": "continuous model material foundation or material interconnection",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                },
+                {
+                  "id": 742,
+                  "item-type": "feature",
+                  "value": "other property",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                },
+                {
+                  "id": 752,
+                  "item-type": "feature",
+                  "value": "ridges",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                },
+                {
+                  "id": 754,
+                  "item-type": "feature",
+                  "value": "second stage debinding component",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                },
+                {
+                  "id": 824,
+                  "item-type": "feature",
+                  "value": "alternative separation gaps",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                }
+              ]
+            },
+            {
+              "id": 722,
+              "item-type": "feature",
+              "value": "sections",
+              "value-type": "text",
+              "importance": "auto",
+              "items": [
+                {
+                  "id": 723,
+                  "item-type": "feature",
+                  "value": "part release layers",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": [
+                    {
+                      "id": 725,
+                      "item-type": "feature",
+                      "value": "release layer",
+                      "value-type": "text",
+                      "importance": "auto",
+                      "items": [
+                        {
+                          "id": 726,
+                          "item-type": "feature",
+                          "value": "ceramic or high temperature metal",
+                          "value-type": "text",
+                          "importance": "auto",
+                          "items": []
+                        },
+                        {
+                          "id": 782,
+                          "item-type": "feature",
+                          "value": "high temperature ceramic composite",
+                          "value-type": "text",
+                          "importance": "auto",
+                          "items": [
+                            {
+                              "id": 783,
+                              "item-type": "feature",
+                              "value": "binding polymers",
+                              "value-type": "text",
+                              "importance": "auto",
+                              "items": [
+                                {
+                                  "id": 784,
+                                  "item-type": "feature",
+                                  "value": "debindable matrix",
+                                  "value-type": "text",
+                                  "importance": "auto",
+                                  "items": [
+                                    {
+                                      "id": 785,
+                                      "item-type": "feature",
+                                      "value": "different components",
+                                      "value-type": "text",
+                                      "importance": "auto",
+                                      "items": []
+                                    },
+                                    {
+                                      "id": 786,
+                                      "item-type": "feature",
+                                      "value": "soluble support structures",
+                                      "value-type": "text",
+                                      "importance": "auto",
+                                      "items": [
+                                        {
+                                          "id": 787,
+                                          "item-type": "feature",
+                                          "value": "release composite",
+                                          "value-type": "text",
+                                          "importance": "auto",
+                                          "items": [
+                                            {
+                                              "id": 788,
+                                              "item-type": "feature",
+                                              "value": "shape-retaining brown part assembly",
+                                              "value-type": "text",
+                                              "importance": "auto",
+                                              "items": [
+                                                {
+                                                  "id": 789,
+                                                  "item-type": "feature",
+                                                  "value": "sparse lattice",
+                                                  "value-type": "text",
+                                                  "importance": "auto",
+                                                  "items": [
+                                                    {
+                                                      "id": 790,
+                                                      "item-type": "feature",
+                                                      "value": "shrinking platform of successive layers",
+                                                      "value-type": "text",
+                                                      "importance": "auto",
+                                                      "items": [
+                                                        {
+                                                          "id": 804,
+                                                          "item-type": "feature",
+                                                          "value": "three dimensional structure",
+                                                          "value-type": "text",
+                                                          "importance": "auto",
+                                                          "items": []
+                                                        },
+                                                        {
+                                                          "id": 811,
+                                                          "item-type": "feature",
+                                                          "value": "layer",
+                                                          "value-type": "text",
+                                                          "importance": "auto",
+                                                          "items": []
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "id": 791,
+                                                      "item-type": "feature",
+                                                      "value": "shrinking supports",
+                                                      "value-type": "text",
+                                                      "importance": "auto",
+                                                      "items": [
+                                                        {
+                                                          "id": 792,
+                                                          "item-type": "feature",
+                                                          "value": "same composite",
+                                                          "value-type": "text",
+                                                          "importance": "auto",
+                                                          "items": [
+                                                            {
+                                                              "id": 797,
+                                                              "item-type": "feature",
+                                                              "value": "lateral support shell",
+                                                              "value-type": "text",
+                                                              "importance": "auto",
+                                                              "items": [
+                                                                {
+                                                                  "id": 807,
+                                                                  "item-type": "feature",
+                                                                  "value": "draft and permit removal",
+                                                                  "value-type": "text",
+                                                                  "importance": "auto",
+                                                                  "items": []
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "id": 793,
+                                                          "item-type": "feature",
+                                                          "value": "cell chambers",
+                                                          "value-type": "text",
+                                                          "importance": "auto",
+                                                          "items": []
+                                                        },
+                                                        {
+                                                          "id": 800,
+                                                          "item-type": "feature",
+                                                          "value": "shrinking support",
+                                                          "value-type": "text",
+                                                          "importance": "auto",
+                                                          "items": [
+                                                            {
+                                                              "id": 801,
+                                                              "item-type": "feature",
+                                                              "value": "bottom",
+                                                              "value-type": "text",
+                                                              "importance": "auto",
+                                                              "items": []
+                                                            },
+                                                            {
+                                                              "id": 802,
+                                                              "item-type": "feature",
+                                                              "value": "vertical surface",
+                                                              "value-type": "text",
+                                                              "importance": "auto",
+                                                              "items": []
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "id": 805,
+                                                          "item-type": "feature",
+                                                          "value": "support",
+                                                          "value-type": "text",
+                                                          "importance": "auto",
+                                                          "items": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "id": 794,
+                                                  "item-type": "feature",
+                                                  "value": "combined shrinking platform",
+                                                  "value-type": "text",
+                                                  "importance": "auto",
+                                                  "items": [
+                                                    {
+                                                      "id": 795,
+                                                      "item-type": "feature",
+                                                      "value": "composite",
+                                                      "value-type": "text",
+                                                      "importance": "auto",
+                                                      "items": [
+                                                        {
+                                                          "id": 796,
+                                                          "item-type": "feature",
+                                                          "value": "metal particulate filler",
+                                                          "value-type": "text",
+                                                          "importance": "auto",
+                                                          "items": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "id": 803,
+                                                  "item-type": "feature",
+                                                  "value": "shrinking support columns",
+                                                  "value-type": "text",
+                                                  "importance": "auto",
+                                                  "items": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "id": 798,
+                                              "item-type": "feature",
+                                              "value": "ceramic particulate filler",
+                                              "value-type": "text",
+                                              "importance": "auto",
+                                              "items": []
+                                            },
+                                            {
+                                              "id": 799,
+                                              "item-type": "feature",
+                                              "value": "ceramic particulate",
+                                              "value-type": "text",
+                                              "importance": "auto",
+                                              "items": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "id": 806,
+                                          "item-type": "feature",
+                                          "value": "structure",
+                                          "value-type": "text",
+                                          "importance": "auto",
+                                          "items": []
+                                        },
+                                        {
+                                          "id": 818,
+                                          "item-type": "feature",
+                                          "value": "support structure",
+                                          "value-type": "text",
+                                          "importance": "auto",
+                                          "items": [
+                                            {
+                                              "id": 819,
+                                              "item-type": "feature",
+                                              "value": "portions",
+                                              "value-type": "text",
+                                              "importance": "auto",
+                                              "items": []
+                                            },
+                                            {
+                                              "id": 820,
+                                              "item-type": "feature",
+                                              "value": "individual particles",
+                                              "value-type": "text",
+                                              "importance": "auto",
+                                              "items": []
+                                            },
+                                            {
+                                              "id": 821,
+                                              "item-type": "feature",
+                                              "value": "spheres",
+                                              "value-type": "text",
+                                              "importance": "auto",
+                                              "items": []
+                                            },
+                                            {
+                                              "id": 828,
+                                              "item-type": "feature",
+                                              "value": "majority",
+                                              "value-type": "text",
+                                              "importance": "auto",
+                                              "items": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": 810,
+                              "item-type": "feature",
+                              "value": "other materials",
+                              "value-type": "text",
+                              "importance": "auto",
+                              "items": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": 896,
+                          "item-type": "feature",
+                          "value": "spherized or powdered higher melting temperature material",
+                          "value-type": "text",
+                          "importance": "auto",
+                          "items": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 734,
+              "item-type": "feature",
+              "value": "separation structures",
+              "value-type": "text",
+              "importance": "auto",
+              "items": [
+                {
+                  "id": 842,
+                  "item-type": "feature",
+                  "value": "separation structure",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                }
+              ]
+            },
+            {
+              "id": 822,
+              "item-type": "feature",
+              "value": "compacted intimate support",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 827,
+              "item-type": "feature",
+              "value": "small separation gap",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 829,
+              "item-type": "feature",
+              "value": "other sections",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 831,
+              "item-type": "feature",
+              "value": "different portions",
+              "value-type": "text",
+              "importance": "auto",
+              "items": [
+                {
+                  "id": 832,
+                  "item-type": "feature",
+                  "value": "micron gaps",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 508,
+      "item-type": "feature",
+      "value": "center part",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 509,
+      "item-type": "feature",
+      "value": "two side parts",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 510,
+      "item-type": "feature",
+      "value": "interlocking e g pl",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 511,
+      "item-type": "feature",
+      "value": "box joint",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 512,
+      "item-type": "feature",
+      "value": "support shell sh",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 513,
+      "item-type": "feature",
+      "value": "small number of parting lines",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 514,
+      "item-type": "feature",
+      "value": "halves thirds quarters",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 515,
+      "item-type": "feature",
+      "value": "later use",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 516,
+      "item-type": "feature",
+      "value": "workholding fixture",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 517,
+      "item-type": "feature",
+      "value": "soft jaws",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 846,
+          "item-type": "feature",
+          "value": "soft jaw",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 518,
+      "item-type": "feature",
+      "value": "machining",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 519,
+      "item-type": "feature",
+      "value": "generally spherical part",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 520,
+      "item-type": "feature",
+      "value": "workholding jaw",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 521,
+      "item-type": "feature",
+      "value": "halfway point",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 522,
+      "item-type": "feature",
+      "value": "purposes of subsequent workholding",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 523,
+      "item-type": "feature",
+      "value": "inspection",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 524,
+      "item-type": "feature",
+      "value": "post processing",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 525,
+      "item-type": "feature",
+      "value": "half way point",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 526,
+      "item-type": "feature",
+      "value": "vise",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 849,
+          "item-type": "feature",
+          "value": "positive grip",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 527,
+      "item-type": "feature",
+      "value": "attachment features",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 528,
+      "item-type": "feature",
+      "value": "workholding fixture s",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 529,
+      "item-type": "feature",
+      "value": "other holder",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 530, "item-type": "feature", "value": "holes", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 531,
+      "item-type": "feature",
+      "value": "attachment",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 532,
+      "item-type": "feature",
+      "value": "ceramic support",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 533,
+      "item-type": "feature",
+      "value": "reusable support",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 850,
+          "item-type": "feature",
+          "value": "upwardly facing surfaces",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 534,
+      "item-type": "feature",
+      "value": "sintering step",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 535, "item-type": "feature", "value": "matching", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 536,
+      "item-type": "feature",
+      "value": "feedstock material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 537,
+      "item-type": "feature",
+      "value": "volume fraction secondary matrix material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 538,
+      "item-type": "feature",
+      "value": "micron diameter size",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 852,
+          "item-type": "feature",
+          "value": "substantially spherical beads",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 539,
+      "item-type": "feature",
+      "value": "volume fraction of soluble or catalysable binder",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 540,
+      "item-type": "feature",
+      "value": "primary matrix material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 541,
+      "item-type": "feature",
+      "value": "volume fraction of carbon fiber strands",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 639,
+          "item-type": "feature",
+          "value": "metal",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 854,
+              "item-type": "feature",
+              "value": "carbon",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        },
+        {
+          "id": 853,
+          "item-type": "feature",
+          "value": "fiber strand",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 542,
+      "item-type": "feature",
+      "value": "nickel titanium boride",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 543,
+      "item-type": "feature",
+      "value": "primary matrix",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 544,
+      "item-type": "feature",
+      "value": "polymer binder",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 545,
+      "item-type": "feature",
+      "value": "secondary matrix",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 546,
+      "item-type": "feature",
+      "value": "beads",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 640,
+          "item-type": "feature",
+          "value": "ceramic or metal sintering material",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 855,
+          "item-type": "feature",
+          "value": "ceramic or metal material",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 547,
+      "item-type": "feature",
+      "value": "fiber filler",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 856,
+          "item-type": "feature",
+          "value": "particle",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 548,
+      "item-type": "feature",
+      "value": "ceramic or metal secondary matrix material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 549,
+      "item-type": "feature",
+      "value": "comparison of elastic modulus",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 857,
+          "item-type": "feature",
+          "value": "polymer/binder primary matrices",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 550,
+      "item-type": "feature",
+      "value": "following table",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 551,
+      "item-type": "feature",
+      "value": "secondary",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 552,
+      "item-type": "feature",
+      "value": "n/m\u00b2 gpa",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 553,
+      "item-type": "feature",
+      "value": "carbon fiber",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 554,
+      "item-type": "feature",
+      "value": "graphite fiber",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 555,
+      "item-type": "feature",
+      "value": "boron nitride",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 556,
+      "item-type": "feature",
+      "value": "boron carbide",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 557, "item-type": "feature", "value": "alumina", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 558,
+      "item-type": "feature",
+      "value": "silicon carbide",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 559, "item-type": "feature", "value": "cobalt", "value-type": "text", "importance": "auto", "items": [] },
+    { "id": 560, "item-type": "feature", "value": "bronze", "value-type": "text", "importance": "auto", "items": [] },
+    { "id": 561, "item-type": "feature", "value": "diamond", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 562,
+      "item-type": "feature",
+      "value": "tungsten carbide",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 563,
+      "item-type": "feature",
+      "value": "carbon nanotube",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 564,
+      "item-type": "feature",
+      "value": "powder e g particulate",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 565,
+      "item-type": "feature",
+      "value": "range of sizes",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 566,
+      "item-type": "feature",
+      "value": "candidate secondary matrix-filler combinations",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 567,
+      "item-type": "feature",
+      "value": "those fibers",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 568,
+      "item-type": "feature",
+      "value": "continuous fibers",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 569,
+      "item-type": "feature",
+      "value": "carbon forms",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 858,
+          "item-type": "feature",
+          "value": "graphene",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 876,
+          "item-type": "feature",
+          "value": "carbon nanotubes",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 877,
+          "item-type": "feature",
+          "value": "carbon blacks",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 878,
+          "item-type": "feature",
+          "value": "short/medium/long carbon fibers",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 879,
+          "item-type": "feature",
+          "value": "graphite flakes",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 880,
+          "item-type": "feature",
+          "value": "platelets",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 570,
+      "item-type": "feature",
+      "value": "carbon onions",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 571,
+      "item-type": "feature",
+      "value": "astralenes",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 572,
+      "item-type": "feature",
+      "value": "soluble-pyrolysable binder combinations",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 808,
+          "item-type": "feature",
+          "value": "same binding waxes",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 809,
+              "item-type": "feature",
+              "value": "polyethylene",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            },
+            {
+              "id": 882,
+              "item-type": "feature",
+              "value": "steatite",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        }
+      ]
+    },
+    { "id": 573, "item-type": "feature", "value": "peg", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 574,
+      "item-type": "feature",
+      "value": "stearic acid",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 575,
+      "item-type": "feature",
+      "value": "emulsion form",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 881,
+          "item-type": "feature",
+          "value": "polymethyl methacrylate",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    { "id": 576, "item-type": "feature", "value": "carnauba", "value-type": "text", "importance": "auto", "items": [] },
+    { "id": 577, "item-type": "feature", "value": "bees wax", "value-type": "text", "importance": "auto", "items": [] },
+    { "id": 578, "item-type": "feature", "value": "paraffin", "value-type": "text", "importance": "auto", "items": [] },
+    { "id": 579, "item-type": "feature", "value": "pvb", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 580,
+      "item-type": "feature",
+      "value": "pyrolysable second stage binders",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 883,
+          "item-type": "feature",
+          "value": "polyolefin resins polypropylene",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 884,
+          "item-type": "feature",
+          "value": "high-density polyethylene",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 581,
+      "item-type": "feature",
+      "value": "linear low-density polyethylene",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 582,
+      "item-type": "feature",
+      "value": "polyoxymethylene copolymer",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 583,
+      "item-type": "feature",
+      "value": "thermal debinding",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 584,
+      "item-type": "feature",
+      "value": "small molecules",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 886,
+          "item-type": "feature",
+          "value": "thermal cracking",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 585,
+      "item-type": "feature",
+      "value": "solvent debinding",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 586,
+      "item-type": "feature",
+      "value": "appropriate solvent",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    { "id": 587, "item-type": "feature", "value": "acetone", "value-type": "text", "importance": "auto", "items": [] },
+    { "id": 588, "item-type": "feature", "value": "heptane", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 589,
+      "item-type": "feature",
+      "value": "catalytic debinding",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 590,
+      "item-type": "feature",
+      "value": "apparatus for additive manufacturing",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 591,
+      "item-type": "feature",
+      "value": "first filament",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 862,
+          "item-type": "feature",
+          "value": "binder or polymer primary matrix",
+          "value-type": "text",
+          "importance": "auto",
+          "items": [
+            {
+              "id": 863,
+              "item-type": "feature",
+              "value": "cobalt or bronze beads",
+              "value-type": "text",
+              "importance": "auto",
+              "items": [
+                {
+                  "id": 864,
+                  "item-type": "feature",
+                  "value": "steel beads",
+                  "value-type": "text",
+                  "importance": "auto",
+                  "items": [
+                    {
+                      "id": 865,
+                      "item-type": "feature",
+                      "value": "boron nitride fibers",
+                      "value-type": "text",
+                      "importance": "auto",
+                      "items": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 892,
+              "item-type": "feature",
+              "value": "at least a portion",
+              "value-type": "text",
+              "importance": "auto",
+              "items": []
+            }
+          ]
+        },
+        {
+          "id": 888,
+          "item-type": "feature",
+          "value": "sinterable",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 592,
+      "item-type": "feature",
+      "value": "material feed path",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 593,
+      "item-type": "feature",
+      "value": "second filament",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 594,
+      "item-type": "feature",
+      "value": "first or second material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 890,
+          "item-type": "feature",
+          "value": "prior deposition",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 595,
+      "item-type": "feature",
+      "value": "layers of first material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 596,
+      "item-type": "feature",
+      "value": "prior deposition of second material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 597,
+      "item-type": "feature",
+      "value": "first material and second material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 894,
+          "item-type": "feature",
+          "value": "first material",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 895,
+          "item-type": "feature",
+          "value": "second material",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 598,
+      "item-type": "feature",
+      "value": "loose powder",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 599,
+      "item-type": "feature",
+      "value": "printer\u201d",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 600,
+      "item-type": "feature",
+      "value": "manufacturing machinery",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 601,
+      "item-type": "feature",
+      "value": "motion controller",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 602,
+      "item-type": "feature",
+      "value": "dedicated g-code",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 603,
+      "item-type": "feature",
+      "value": "substantially homogenous form",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 604,
+      "item-type": "feature",
+      "value": "powder material",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 605,
+      "item-type": "feature",
+      "value": "substantially homogenous\u201d",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 740,
+          "item-type": "feature",
+          "value": "fluids",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 899,
+          "item-type": "feature",
+          "value": "powders",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 900,
+          "item-type": "feature",
+          "value": "blends",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 901,
+          "item-type": "feature",
+          "value": "dispersions",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 902,
+          "item-type": "feature",
+          "value": "colloids",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 903,
+          "item-type": "feature",
+          "value": "suspensions",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    { "id": 606, "item-type": "feature", "value": "mixtures", "value-type": "text", "importance": "auto", "items": [] },
+    {
+      "id": 607,
+      "item-type": "feature",
+      "value": "dedicated g-code toolpath instructions",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    },
+    {
+      "id": 608,
+      "item-type": "feature",
+      "value": "deposition head\u201d",
+      "value-type": "text",
+      "importance": "auto",
+      "items": [
+        {
+          "id": 684,
+          "item-type": "feature",
+          "value": "extrusion nozzles",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 904,
+          "item-type": "feature",
+          "value": "jet nozzles",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 905,
+          "item-type": "feature",
+          "value": "spray nozzles",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 906,
+          "item-type": "feature",
+          "value": "conduit nozzles",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        },
+        {
+          "id": 907,
+          "item-type": "feature",
+          "value": "hybrid nozzles",
+          "value-type": "text",
+          "importance": "auto",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 609,
+      "item-type": "feature",
+      "value": "entire cross-sectional area",
+      "value-type": "text",
+      "importance": "auto",
+      "items": []
+    }
+  ]
+}
