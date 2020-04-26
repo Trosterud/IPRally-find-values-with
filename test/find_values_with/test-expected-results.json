@@ -1,0 +1,13 @@
+{
+	".\/test\/find_values_with\/test-data\/base-test.json": ["motorized teleport"],
+	".\/test\/find_values_with\/test-data\/different-test-object.json": ["has motor yes"],
+	".\/test\/find_values_with\/test-data\/US10000011B1.json": [
+		"motorized drive",
+		"three motorized degrees of freedom",
+		"three commanded motors",
+		"servomotor",
+		"lifter motor"
+	],
+	".\/test\/find_values_with\/test-data\/US_mini_10000011B1.json": ["motor manufactured part"],
+	".\/test\/find_values_with\/test-data\/base-test-empty.json": []
+}
