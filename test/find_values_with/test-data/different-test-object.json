@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "a": {
+        "b": {
+          "value": "has motor yes"
+        },
+        "d": 2
+      }
+    }
+  ],
+  "items2": [
+    {
+      "a": {
+        "b": {
+          "value": "has nothing"
+        },
+        "d": 2
+      }
+    }
+  ]
+}
