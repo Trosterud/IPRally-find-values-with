@@ -9,7 +9,7 @@
 
   [json-file-path key substring]
   (let [get-parsed-json (json/parse-string (slurp json-file-path) true)
-        substring-match? (fn [s] (str/includes? s substring))]
+        substring-match? (fn [s] (str/includes? s substring))] ; or w/regex matching (boolean (re-find #"motor" s))
 
     ;; Perform depth first search, filter for relevant objects, map :value
     (->> (tree-seq #(or (map? %) (vector? %)) identity (first get-parsed-json))
