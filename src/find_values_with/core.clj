@@ -6,6 +6,9 @@
   "Returns parsed JSON from file, takes filepath string as input"
   [json-file-path]
   (let [get-parsed-json (json/parse-string (slurp json-file-path) true)]
+
+    ;; Perform depth first search, filter for relevant objects, map :value
     (->> (tree-seq #(or (map? %) (vector? %)) identity (first get-parsed-json))
-         (filter map?)
+         (filter #(true?
+                   (and (map? %) (:value %) (clojure.string/includes? (:value %) "motor"))))
          (map :value))))
